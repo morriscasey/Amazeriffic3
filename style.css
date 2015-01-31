@@ -1,0 +1,129 @@
+body {
+	background: #f9e933;
+	font-family: 'Droid Sans', sans-serif;
+}
+.tabs a span {
+	display: inline-block;
+	border-radius: 5px 5px 0 0;
+	width: 100px;
+	margin-right: 10px;
+	text-align: center;
+	background: #ddd;
+	padding: 5px;
+}
+.tabs a span.active{
+	background: #eee;
+}
+.content{
+	background: #eee;
+	padding: 2%;
+}
+main .content li{
+	background: #E3F8FF;
+	margin: 1%;
+}
+.tabs{
+	margin-top:4%;
+}
+header {
+	background: white;
+	border-bottom: 1px solid #ddd;
+	padding: 25px 0 25px 0;
+}
+header {
+	background: white;
+}
+
+main {
+	display: block;
+	background: white;
+	padding-bottom: 5%;
+}
+#remove{
+	color: red;
+}
+header, main, footer {
+	padding-bottom: 2%;
+}
+
+header, main, footer {
+	min-width: 855px;
+	overflow: hidden;
+}
+
+header .container, main .container, footer .container {
+	width: 855px;
+	margin: auto;
+}
+
+header h1, .contact, #leftMain {
+	float: left;
+	width: 570px;
+}
+header nav, .sitemap, #rightMain{
+	float: right;
+	width: 285px;
+}
+h1,h5 {
+	font-size: 3em;  
+	float: left; 
+	width: 570px;
+	font-family: 'Ubuntu', sans-serif;
+}
+h5 {
+	font-size: 1.25em;
+	margin-bottom:20px;
+}
+footer{
+	margin-top: 5%;
+}
+h1, #contactName {
+	color: #b33;
+	font-style: italic;
+}
+a { 
+	color: #f00; 
+	text-decoration: none; 
+	font-weight: bold; 
+} 
+
+h2{
+	font-weight: bold;
+	font-size: 1.5em;
+	padding-top: 5%;
+}
+#leftFooter{
+	float:left;
+}
+#rightFooter{
+	float:right;
+}
+
+h2,{
+	font-weight: bold;
+}
+.answer{
+	margin-left: 4%;
+	padding-top: 2%;
+	font-size: 75%;
+}
+h3{
+	background: #D3D3D3;
+	color: #979797;
+	border-radius: .2em;
+	padding: 1%;
+}
+.spacing{
+	margin-top: 2%;
+}
+input{
+	height: 2em;
+	width: 30%;
+}
+li{
+	padding:.5em;
+}
+
+
+
+
